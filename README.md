@@ -1,5 +1,12 @@
 ### Hello, I'm Pradeep Raj 👋
 
+<a href="https://www.linkedin.com/in/pradeep-raj-252a4750/">
+  <img align="left" alt="Pradeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br>
+<br>
+
 - 🔭 I’m currently working on Accion Labs
 - 🌱 I’m currently learning React, Python ...
 - 📫 How to reach me: [LinkedIn - @PradeepRaj] (https://www.linkedin.com/in/pradeep-raj-252a4750/)
