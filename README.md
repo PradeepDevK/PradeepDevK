@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Accion Labs
 - 🌱 I’m currently learning React, Python ...
-- 📫 How to reach me: [LinkedIn - @PradeepRaj] (https://www.linkedin.com/in/pradeep-raj-252a4750/)
+- 📫 How to reach me: [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
 
 <!--
 **PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
