@@ -9,6 +9,13 @@
 <a href="https://github.com/PradeepDevK">
   <img align="left" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
+  <img align="left" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/pradeep.raj.710/">
+  <img align="left" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 
 <br>
 <br>
