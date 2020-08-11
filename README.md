@@ -26,6 +26,7 @@
 - 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday.
+-  🧑‍💻 Portfolio - http://pradeepraj.in/
   
  [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
  [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
