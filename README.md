@@ -1,4 +1,6 @@
-### Hello, I'm Pradeep Raj K 👋
+### Hello, I'm Pradeep Raj K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 
 <a href="https://twitter.com/pradeepjack555">
   <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,7 +28,7 @@
 - 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday.
--  🧑‍💻 Portfolio - http://pradeepraj.in/
+<!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
   
  [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
  [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
