@@ -33,7 +33,7 @@
  [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
  [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
  
- **Languages and Tools:**  
+### Languages & Tools 🛠 
  
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -46,13 +46,18 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
  
- <a href="https://github.com/PradeepDevK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepDevK&theme=dark&hide_langs_below=1" />
-</a>
+ ### Analytics ⚙️
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif"/>
+</p>
 
-<a href="https://github.com/PradeepDevK">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepDevK&show_icons=true&theme=dracula&line_height=27" alt="Pradeep's github stats"/>
-</a>
+<p align="left">
+  <a href="https://github.com/PradeepDevK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepDevK&theme=dark&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepDevK&show_icons=true&theme=dracula&line_height=27" alt="Pradeep's github stats"/>
+  </a>
+</p>
  
  
 <!--
