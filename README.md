@@ -12,27 +12,6 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Let's connect ? 🤝
-
-<a href="https://twitter.com/pradeepjack555">
-  <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/pradeep-raj-252a4750/">
-  <img align="left" alt="Pradeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/PradeepDevK">
-  <img align="left" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
-  <img align="left" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/pradeep.raj.710/">
-  <img align="left" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-  
- [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
- [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
- 
 ### Languages & Tools 🛠 
  
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
@@ -59,6 +38,26 @@
   </a>
 </p>
  
+### Let's connect ? 🤝
+
+<a href="https://twitter.com/pradeepjack555">
+  <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/pradeep-raj-252a4750/">
+  <img align="left" alt="Pradeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/PradeepDevK">
+  <img align="left" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
+  <img align="left" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/pradeep.raj.710/">
+  <img align="left" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+  
+[LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
+[![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
  
 <!--
 **PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
