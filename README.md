@@ -1,6 +1,8 @@
 ### Hello, I'm Pradeep Raj K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
+### Let's connect ? 🤝
 
 <a href="https://twitter.com/pradeepjack555">
   <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
