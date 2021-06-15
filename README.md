@@ -1,5 +1,15 @@
 ### Hello, I'm Pradeep Raj K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br>
+
+- 🔭 I’m currently working on Accion Labs.
+- 👨🏻‍💼 Seeking new opportunities.
+- 🌱 I’m currently learning React, Python, Deno....
+- 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
+- 😄 Pronouns: He/His
+<!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
+<!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Let's connect ? 🤝
@@ -19,18 +29,6 @@
 <a href="https://www.facebook.com/pradeep.raj.710/">
   <img align="left" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
-<br>
-<br>
-
-- 🔭 I’m currently working on Accion Labs.
-- 👨🏻‍💼 Seeking new opportunities.
-- 🌱 I’m currently learning React, Python, Deno....
-- 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
-- 😄 Pronouns: He/His
-<!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
-<!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
   
  [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
  [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
