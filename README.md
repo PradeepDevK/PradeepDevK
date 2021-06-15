@@ -1,7 +1,8 @@
-### Hello, I'm Pradeep Raj K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 
 <br>
 
+- 😊 This is me, Pradeep Raj.
 - 🔭 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
 - 🌱 I’m currently learning React, Python, Deno....
