@@ -69,7 +69,12 @@
 [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
 [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
 
- ###                                                 Show some ❤️ by starring some of my repositories!
+### Random Dev Quote ✍️
+<hr>
+
+### "It worked yesterday."
+
+###                                                 Show some ❤️ by starring some of my repositories!
  
 <!--
 **PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
