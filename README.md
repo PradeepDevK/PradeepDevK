@@ -74,6 +74,8 @@
 
 ### "It worked yesterday."
 
+<hr>
+
 ###                                                 Show some ❤️ by starring some of my repositories!
  
 <!--
