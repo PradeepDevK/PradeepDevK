@@ -1,7 +1,7 @@
 ### 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">/>!
 <hr>
 
-💫About Me :
+### About Me 💫
 <hr>
 
 - 😊 This is me, Pradeep Raj.
@@ -13,7 +13,7 @@
 <!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
 <!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
 
-📊GitHub Stats :
+### GitHub Stats 📊
 <hr>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
@@ -69,7 +69,7 @@
 [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
 [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
 
-                                                  Show some ❤️ by starring some of my repositories!
+ ###                                                 Show some ❤️ by starring some of my repositories!
  
 <!--
 **PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
