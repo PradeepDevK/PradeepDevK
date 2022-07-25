@@ -1,6 +1,8 @@
 ### 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">/>!
+<hr>
 
-<br>
+💫About Me :
+<hr>
 
 - 😊 This is me, Pradeep Raj.
 - 🔭 I’m currently working on Accion Labs.
@@ -11,9 +13,13 @@
 <!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
 <!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
 
+📊GitHub Stats :
+<hr>
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠 
+<hr>
  
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -27,6 +33,8 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
  
  ### Analytics ⚙️
+ <hr>
+ 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK"/>
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif"/>
@@ -40,6 +48,7 @@
 </p>
  
 ### Let's connect ? 🤝
+<hr>
 
 <a href="https://twitter.com/pradeepjack555">
   <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -59,6 +68,8 @@
   
 [LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
 [![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
+
+                                                  Show some ❤️ by starring some of my repositories!
  
 <!--
 **PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
