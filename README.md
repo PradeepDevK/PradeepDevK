@@ -18,7 +18,7 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Languages & Tools 🛠 
+### Skills 💪 & Tools 🛠 
 <hr>
  <!--FrontEnd-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code><!--HTML-->
