@@ -4,7 +4,7 @@
 ### About Me 💫
 <hr>
 
-- 😊 This is me, Pradeep Raj.
+- 😊 This is me, Pradeep Raj K.
 - 🔭 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
 - 🌱 I’m currently learning React, Python, Deno....
