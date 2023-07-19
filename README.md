@@ -13,10 +13,10 @@
 <!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
 <!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
 
-### GitHub Stats 📊
+<!--- ### GitHub Stats 📊
 <hr>
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
 ### Skills 💪 & Tools 🛠 
 <hr>
