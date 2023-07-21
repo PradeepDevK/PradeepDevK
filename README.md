@@ -9,7 +9,7 @@
 - 👨🏻‍💼 Seeking new opportunities.
 - 🌱 I’m currently learning React, Python .....
 - 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
 <!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
 
