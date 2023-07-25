@@ -1,24 +1,27 @@
-##### 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">/>!
-<hr>
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I am Pradeep Raj </h1>
 
-##### About Me.... 💫 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PradeepDevK&label=Views&color=blue&style=plastic&style=for-the-badge" alt="PradeepDevK" /> </p>
 
-- 😊 This is me, Pradeep Raj K.
-- 🔭 I’m currently working on Accion Labs.
-- 👨🏻‍💼 Seeking new opportunities.
-- 🌱 I’m currently learning React, Python .....
-- 📫 How to reach me: [Twitter - @PradeepRaj](https://twitter.com/pradeepjack555)
+## About Me 😇
+
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: I spend almost 2 hours watching comedy shows everyday. -->
-<!---  🧑‍💻 Portfolio - http://pradeepraj.in/ -->
+- 💻 I’m currently working on Accion Labs.
+- 👨🏻‍💼 Seeking new opportunities.
+- 👩🏻‍💻 I’m currently learning React, Python, AWS .....
+
+## Socials 🌍
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-raj-252a4750/) [![Twitter](https://img.shields.io/twitter/follow/pradeepjack555?logo=Twitter&style=for-the-badge)](https://twitter.com/pradeepjack555))
 
 <!--- ### GitHub Stats 📊
 <hr>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
-### Skills 💪 & Tools 🛠 
+## Tech Stack 💻
 <hr>
  <!--FrontEnd-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code><!--HTML-->
