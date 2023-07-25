@@ -53,22 +53,18 @@
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code><!--Github-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"></code><!--Gitlab-->
  <br/>
- 
- ### Analytics ⚙️
- <hr>
- 
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK"/>
-  <!-- <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif"/>-->
+
+## 💳 GitHub Profile Card Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradeepDevK&theme=react"/>
 </p>
 
-<p align="left">
-  <a href="https://github.com/PradeepDevK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepDevK&theme=dark&hide_langs_below=1" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PradeepDevK&show_icons=true&theme=dracula&line_height=27" alt="Pradeep's github stats"/>
-  </a>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PradeepDevK&show_icons=true&theme=react" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK&theme=react" />
 </p>
- 
+  
 ### Let's connect ? 🤝
 <hr>
 
