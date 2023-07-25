@@ -14,7 +14,7 @@
 
 ## Socials 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-raj-252a4750/) [![Twitter](https://img.shields.io/twitter/follow/pradeepjack555?logo=Twitter&style=for-the-badge)](https://twitter.com/pradeepjack555))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-raj-252a4750/) [![Twitter](https://img.shields.io/twitter/follow/pradeepjack555?logo=Twitter&style=for-the-badge)](https://twitter.com/pradeepjack555)
 
 <!--- ### GitHub Stats 📊
 <hr>
@@ -22,17 +22,19 @@
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Tech Stack 💻
-<hr>
+
  <!--FrontEnd-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code><!--HTML-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code><!--CSS-->
  <br/>
+ 
  <!--BackEnd-->
- <code><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code><!--JS-->  
- <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code><!--NodeJS--> 
+ <code><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code><!--JS-->
+ <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code><!--NodeJS-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"></code><!--Express-->
  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><!--Python-->
  <br/>
+ 
  <!--Communication-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"></code><!--RestService-->
  <br/>
@@ -43,12 +45,14 @@
  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><!--Sql-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"></code><!--Redis-->
  <br/>
+ 
  <!--Tools-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></code><!--VS-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"></code><!--Sublime-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></code><!--PostMan-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"></code><!--Jira-->
  <br/>
+ 
  <!--Version Control-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code><!--Github-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"></code><!--Gitlab-->
@@ -65,42 +69,26 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK&theme=react" />
 </p>
   
-### Let's connect ? 🤝
-<hr>
+## Let's connect ? 🤝
 
-<a href="https://twitter.com/pradeepjack555">
-  <img align="left" alt="Pradeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/pradeep-raj-252a4750/">
-  <img align="left" alt="Pradeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/PradeepDevK">
-  <img align="left" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
-  <img align="left" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/pradeep.raj.710/">
-  <img align="left" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-  
-[LinkedIn - @PradeepRaj](https://www.linkedin.com/in/pradeep-raj-252a4750/)
-[![GitHub PradeepDevK](https://img.shields.io/github/followers/PradeepDevK?label=follow&style=social)](https://github.com/PradeepDevK)
+<p align="center">
+	<a href="https://github.com/PradeepDevK">
+	  	<img align="center" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+	</a>
+	<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
+		  <img align="center" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+	</a>
+	<a href="https://www.facebook.com/pradeep.raj.710/">
+	  	<img align="center" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+	</a>
+</p>
 
-### Random Dev Quote ✍️
-<hr>
+## Random Dev Quote ✍️
 
-### "It worked yesterday."
+<p>
+	"It worked yesterday."
+</p">
 
-<hr>
-
-###                                                 Show some ❤️ by starring some of my repositories!
- 
-<!--
-**PradeepDevK/PradeepDevK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+<p align="center">
+Show some ❤️ by starring some of my repositories!
+</p>
