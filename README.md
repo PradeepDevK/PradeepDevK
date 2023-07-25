@@ -65,7 +65,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PradeepDevK&show_icons=true&theme=react" />
+	<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradeepDevK&show_icons=true&theme=react" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK&theme=react" />
 </p>
   
