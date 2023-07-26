@@ -63,6 +63,11 @@
 	<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradeepDevK&show_icons=true&theme=react" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK&theme=react" />
 </p>
+
+## ⚙️ Languages Worked
+<p align="center">
+	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepDevK&theme=react" />
+</p>
   
 ## Let's connect ? 🤝
 
