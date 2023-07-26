@@ -16,11 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-raj-252a4750/) [![Twitter](https://img.shields.io/twitter/follow/pradeepjack555?logo=Twitter&style=for-the-badge)](https://twitter.com/pradeepjack555)
 
-<!--- ### GitHub Stats 📊
-<hr>
-
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
-
 ## Tech Stack 💻
 
  <!--FrontEnd-->
