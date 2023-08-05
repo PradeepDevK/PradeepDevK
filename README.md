@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
-- 👩🏻‍💻 I’m currently learning React, Python, AWS .......
+- 👩🏻‍💻 I’m currently learning React, Python, AWS....
 
 ## Socials 🌍
 
