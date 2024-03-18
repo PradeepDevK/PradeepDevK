@@ -28,6 +28,7 @@
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code><!--NodeJS-->
  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"></code><!--Express-->
  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><!--Python-->
+ <code><img height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"></code><!--Django-->
  <br/>
  
  <!--Communication-->
