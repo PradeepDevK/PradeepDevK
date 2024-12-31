@@ -9,7 +9,7 @@ Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PradeepDevK&label=Views&color=blue&style=plastic&style=for-the-badge" alt="PradeepDevK" /> </p>
+<div align="center">
 
 ## About Me 😇
 
@@ -65,43 +65,33 @@ Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84
 
 ## 💳 GitHub Profile Card Summary
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradeepDevK&theme=react"/>
 </p>
 
 ## 📟 GitHub Stats
 
-<p align="center">
+<p>
 	<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradeepDevK&show_icons=true&theme=react" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepDevK&theme=react" />
 </p>
 
 ## ⚙️ Languages Worked
 
-<p align="center">
+<p>
 	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepDevK&theme=react" />
 </p>
   
-## Let's connect ? 🤝
-
-<p align="center">
-	<a href="https://github.com/PradeepDevK">
-	  	<img align="center" alt="Pradeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-	</a>
-	<a href="https://www.instagram.com/pradeep_raj_k/?hl=en">
-		  <img align="center" alt="Pradeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-	</a>
-	<a href="https://www.facebook.com/pradeep.raj.710/">
-	  	<img align="center" alt="Pradeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-	</a>
-</p>
-
 ## Random Dev Quote ✍️
 
 <p>
 	"It worked yesterday."
 </p">
 
-<p align="center">
+##
+
+<p>
 	Show some ❤️ by starring some of my repositories!!!
 </p>
+
+</div>
