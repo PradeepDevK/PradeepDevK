@@ -9,13 +9,13 @@ Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84
 
 </div>
 
-<div align="center">
-
 ## About Me 😇
 
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
+
+<div align="center">
 
 ## 💻 My Tech Stack:
 
