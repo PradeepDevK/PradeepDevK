@@ -3,6 +3,10 @@
 [![Hello World, I'm Pradeep!](assets/header.gif)](https://github.com/PradeepDevK)
 Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif) on [Pinterest](https://www.pinterest.com/).
 
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/pradeepjack555) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-raj-252a4750/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pradeeprajdevk@gmail.com?subject=Hello%20Pradeep,%20From%20Github)
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PradeepDevK&label=Views&color=blue&style=plastic&style=for-the-badge" alt="PradeepDevK" /> </p>
@@ -13,10 +17,6 @@ Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84
 - 💻 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
 - 👩🏻‍💻 I’m currently learning React, Python, AWS....
-
-## Socials 🌍
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-raj-252a4750/) [![Twitter](https://img.shields.io/twitter/follow/pradeepjack555?logo=Twitter&style=for-the-badge)](https://twitter.com/pradeepjack555)
 
 ## Tech Stack 💻
 
