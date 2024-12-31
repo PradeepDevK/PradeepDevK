@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 [![Hello World, I'm Pradeep!](assets/header.gif)](https://github.com/PradeepDevK)
 Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif) on [Pinterest](https://www.pinterest.com/).
@@ -16,9 +16,8 @@ Background GIF by [Pinimg](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working on Accion Labs.
 - 👨🏻‍💼 Seeking new opportunities.
-- 👩🏻‍💻 I’m currently learning React, Python, AWS....
 
-## Tech Stack 💻
+## 💻 My Tech Stack:
 
  <!--FrontEnd-->
 
